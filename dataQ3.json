@@ -1,0 +1,37 @@
+{
+   "Customer":[
+      {
+         
+         "date":"26 06 2022",
+         "product_expense":"50",
+         "service_expense":"20",
+         "name":"Zanele",
+         "member_type":"Gold"
+      },
+      {
+        
+         "date":"09 10 2022",
+         "product_expense":"85",
+         "service_expense":"104",
+          "name":"Gareth",
+          "member_type":"Premium"
+      },
+      {
+         
+         "date":"29 09 2019",
+         "product_expense":"230",
+         "service_expense":"307",
+         "name":"Isaac",
+         "member_type":"Silver"
+      },
+      {
+        
+         "date":"19 09 2022",
+         "product_expense":"35",
+         "service_expense":"40",
+          "name":"Isobel",
+          "member_type": ""
+      }
+   ]
+}
+    
